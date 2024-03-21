@@ -1,2 +1,2 @@
-FROM centos:8
-RUN: yum install git -y 
+FROM centos:
+RUN apt-get update,apt-get install git -y
