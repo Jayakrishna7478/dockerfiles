@@ -1,2 +1,2 @@
-FROM centos:
-RUN apt-get update,apt-get install git -y
+FROM almalinux:8
+RUN yum install nginx -y
