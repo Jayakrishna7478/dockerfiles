@@ -1,1 +1,1 @@
-FROM centos:8
+FROM node:18.20.4-alpine3.19
